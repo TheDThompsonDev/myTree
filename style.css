@@ -1,0 +1,33 @@
+body {
+    background: rgb(38,0,6);
+background: linear-gradient(0deg, rgba(38,0,6,1) 0%, rgba(228,217,255,1) 0%, rgba(30,39,73,1) 100%);
+  background-repeat: no-repeat;
+  height:100vh;
+}
+.profileImage {
+  border-radius: 50%;
+}
+.profileImageContainer {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  height: 150px;
+}
+.name {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  color: rgb(243, 236, 236);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:1.5rem;
+}
+.button{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    font-size: 2rem;
+    border: 1px white solid;
+    margin: 30px;
+    color:#FAFAFF;
+    background-color: #273469;
+}
