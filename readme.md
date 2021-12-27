@@ -1,6 +1,6 @@
 # Make your own Linktree
 
-###  This is a beginner tutorial where you can make your very own linktree using new concepts!
+###  This is a beginner tutorial where you can make your very own <br /> linktree using new concepts!
 
 ### Made only using
 <p float="left">
